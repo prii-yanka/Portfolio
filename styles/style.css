@@ -8,7 +8,7 @@ html, header, body, h1, h2, p {
     --coral: #d89279 /*#F2BAAE/* #ce8990 */;
     --li_coral:  #F3CBAC /* #fde3e6*/ ;
     --blue: #037F8B /* #005e81 */;
-    --li_blue: #C8F0EF; /* #86c0d6; */
+    --li_blue: #064757; /* #86c0d6; */
     --grey: #ABA9B1;
     --paper: #F5F1E8; /* #EADECB; */
 }
@@ -22,7 +22,7 @@ body {
     line-height: 1.5em;
     
     /* background-image: url(../images/wall.jpg); */
-    background: var(--coral);
+    background: var(--li_blue);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 5%;
